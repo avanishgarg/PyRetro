@@ -26,7 +26,7 @@ PyRetro offers the following classic retro games:
 - Memory Game
 - Tetris
 - Superhuman
-- 
+
 
 ## Installation
 

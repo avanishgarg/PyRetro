@@ -15,6 +15,19 @@ Py-Retro: The Old School Edition is a computer application built with Python tha
 - Customization options and various libraries to enhance the user experience
 
 
+
+## Games Included
+
+PyRetro offers the following classic retro games:
+
+- Hungry Snake
+- Connect Four
+- Tic Tac Toe
+- Memory Game
+- Tetris
+- Superhuman
+- 
+
 ## Installation
 
 To install and run Py-Retro on your local machine, follow these steps:
